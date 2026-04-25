@@ -1,0 +1,3 @@
+[submodule "genai-web"]
+	path = genai-web
+	url = https://github.com/TrSaleMane/genai-web.git
