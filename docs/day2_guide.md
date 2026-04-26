@@ -50,7 +50,7 @@ LLM に直接質問する         FAQ 文書を読ませて、文書に基づい
 1. Day 1 で Gemini API キーを Colab シークレットに登録済みであることを確認
 2. 下記バッジまたは GitHub から Day 2 ノートブックを開く
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TrSaleMane/municipality-ai-course/blob/main/docs/day2_rag_chatbot.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TrSaleMane/municipality-ai-course/blob/main/docs/ipynb/day2_rag_chatbot.ipynb)
 
 3. 「ファイル」→「ドライブにコピーを保存」で自分のドライブにコピー
 

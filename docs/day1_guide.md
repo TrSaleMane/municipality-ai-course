@@ -35,7 +35,7 @@ Google Colaboratory（略称：Colab）は、ブラウザ上で Python を実行
 
 `day1_llm_basic.ipynb` の冒頭にある下記バッジをクリックします。
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TrSaleMane/municipality-ai-course/blob/main/docs/day1_llm_basic.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TrSaleMane/municipality-ai-course/blob/main/docs/ipynb/day1_llm_basic.ipynb)
 
 **方法 B：Colab から直接開く**
 
